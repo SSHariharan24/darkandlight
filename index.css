@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 4rem;
+    font-size: 1.2rem;
+    flex-direction: column;
+}
+
+.dark-mode{
+    background-color: black;
+    color:white;
+    
+}
